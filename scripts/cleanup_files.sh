@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f /usr/share/nginx/html/codeDeployRepository
+rm -f /usr/share/nginx/html/codeDeployRepository/
